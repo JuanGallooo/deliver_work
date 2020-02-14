@@ -1,0 +1,9 @@
+Adjuntar un informe con los enlaces al repo y página en github, junto con los problemas y aprendizaje.
+
+https://juangallooo.github.io/deliver_work/
+https://github.com/JuanGallooo/deliver_work
+
+
+Tuve muchos problemas obteniendo el buen uso de CSS sobre todo con las posiciones relativas y absolutas.
+Por otro lado, tuve un problema con el script, ya que lo cargaba al principio de la pagina y no encontraba las variables requeridas.
+El entendimiento de css es muy importante, por mas frameworks que existan, el entendimiento de lo que pasa debajo de cada utilización es de suma importancia.
