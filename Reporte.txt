@@ -1,9 +1,26 @@
-Adjuntar un informe con los enlaces al repo y página en github, junto con los problemas y aprendizaje.
+Dificultades
+Me encontré gran dificultad en encontrar un consenso entre las versiones utilizadas de bootstraap, no entendía porque utilizaba la versión
+quemaba en el codigo, por lo cual había algunas inconsistencias con la última versión del codigo o componentes.
 
-https://juangallooo.github.io/deliver_work/
-https://github.com/JuanGallooo/deliver_work
+También me confundí con el uso de el css que tenía el freelance ya que tenía una versión .min.css que estaba todo completamente teníendo todo amontonado. 
+URL
+https://blackrockdigital.github.io/startbootstrap-freelancer/
+https://getbootstrap.com/docs/4.4/components/carousel/
+https://getbootstrap.com/docs/4.4/components/media-object/
+https://getbootstrap.com/docs/4.4/components/card/
+https://unsplash.com/
+https://www.viajeroscallejeros.com/10-mejores-viajes/
 
+Componentes utilizados
+Carrousel-- parte del portafolio.
+Media -- para la parte de sponsors.
+Progress -- barra de progreso para about me sobre el numero de paises visitados.
+Cards- Cards para ver los paises y una pequeña descripción.
 
-Tuve muchos problemas obteniendo el buen uso de CSS sobre todo con las posiciones relativas y absolutas.
-Por otro lado, tuve un problema con el script, ya que lo cargaba al principio de la pagina y no encontraba las variables requeridas.
-El entendimiento de css es muy importante, por mas frameworks que existan, el entendimiento de lo que pasa debajo de cada utilización es de suma importancia.
+Aportes
+Sería mejor todo desde 0, ya que reutilizar otra plantilla con al estructuración de otro programador es dificil.
+
+Conclusiones
+
+Boostrap, pone todo modularmente mas facil de usar. Ya que es todo mas bonito obteniendo estilos de css más estructuradas 
+y con una mejor frexibilidad.
